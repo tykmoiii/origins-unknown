@@ -1,0 +1,6 @@
+{
+    "name": "fly",
+    "description": "u somehow have wings",
+    "hidden": true,
+    "type": "origins:creative_flight"
+}

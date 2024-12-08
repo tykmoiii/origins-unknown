@@ -1,0 +1,11 @@
+{
+    "name": "thorn hands",
+    "description": "you deal 500 hearts",
+    "hidden": true,
+    "type": "origins:modify_damage_dealt",
+    "modifier": {
+        "operation": "multiply_total_multiplicative",
+        "value": 500,
+        "name": "thorn"
+    }
+}

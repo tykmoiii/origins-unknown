@@ -1,0 +1,36 @@
+{
+    "name": "hardened",
+    "description": "you only eat cooked food and meat",
+    "type": "origins:prevent_item_use",
+    "item_condition": {
+        "type": "origins:and",
+        "conditions": [
+            {
+                "type": "origins:food"
+            },
+            {
+                "type": "origins:ingredient",
+                "ingredient": [
+                    {
+                        "item": "minecraft:carrot"
+                    },
+                    {
+                        "item": "minecraft:apple"
+                    },
+                    {
+                        "item": "minecraft:potato"
+                    },
+                    {
+                        "item": "minecraft:kelp"
+                    },
+                    {
+                        "item": "minecraft:sweet_berries"
+                    },
+                    {
+                        "item": "minecraft:chorus_fruit"
+                    }
+                ]
+            }
+        ]
+    }
+}

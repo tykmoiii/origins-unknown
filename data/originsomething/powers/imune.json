@@ -1,0 +1,6 @@
+{
+    "name": "idc about fire",
+    "description": "you are immune to fire",
+    "hidden": true,
+    "type": "origins:fire_immunity"
+}

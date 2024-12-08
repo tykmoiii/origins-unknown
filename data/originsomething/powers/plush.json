@@ -1,0 +1,23 @@
+{
+    "name": "scavenger",
+    "description": "you start with equipment",
+    "hidden": true,
+    "type": "origins:starting_equipment",
+    "stacks": [
+        {
+            "item": "minecraft:elytra",
+            "amount": 1,
+            "slot": "1"
+        },
+        {
+            "item": "minecraft:golden_apple",
+            "amount": 64,
+            "slot": "2"
+        },
+        {
+            "item": "minecraft:iron_ingot",
+            "amount": 64,
+            "slot": "1"
+        }
+    ]
+}

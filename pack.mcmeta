@@ -1,0 +1,13 @@
+{
+    "pack": {
+        "name": "origins:something",
+        "id": "originsomething",
+        "pack_format": 15,
+        "version": "1.0.0",
+        "authors": [
+            "tykmoii"
+        ],
+        "description": "origin unknown",
+        "license": "dont duplicate"
+    }
+}

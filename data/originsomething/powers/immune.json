@@ -1,0 +1,7 @@
+{
+    "name": "idc about lava",
+    "description": "you can walk on lava",
+    "hidden": true,
+    "type": "origins:walk_on_fluid",
+    "fluid": "minecraft:lava"
+}
